@@ -1,0 +1,17 @@
+The student seems to be trying to solve the code "manually" instead of thinking in abstract terms.
+
+ The student is repeating code.
+
+ The code might not be useful in other worlds.
+
+ Advice:
+
+ This student is on the right track.
+ 
+ They understand that Karel needs to move and pick up beepers, and they know there may be more than one beeper in the same place.
+ 
+ Instead of using a while loop to pick up all beepers, they try using several if statements and multiple pick_beeper calls.
+ 
+ This shows good thinking, but will be a lot to write out.
+ 
+ Instead, they should use a while loop to pick up all the beepers at each pile.

@@ -1,0 +1,19 @@
+The student made an incorrect choice in selecting the code block to use to solve the problem.
+
+Because of this error, they cannot continue with the rest of the code, and therefore, the student may be stuck.
+
+Advice:
+
+I see you've used good practices by employing conditionals to check a condition before executing an action.
+
+You've also used elements like "while" loops, which are good practice for solving a problem that requires an action to be executed multiple times.
+
+Now, let's see how we can solve this. 
+
+It seems there's a line in our code that causes the program to stop and not continue. 
+
+Can you identify it? 
+
+Let's consider whether the "front is clear" option is truly the one needed for what we need to do...
+
+
